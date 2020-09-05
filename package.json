@@ -11,7 +11,7 @@
   "dependencies": {
     "goo.gl": "^0.1.4",
     "snoocore": "^3.3.1",
-    "twilio": "^2.11.1",
+    "twilio": "^3.41.0",
     "when": "^3.7.7"
   }
 }
